@@ -4,3 +4,6 @@ As a data analyst, I've been tasked with analysing the data at hand and providin
 
 Tableau Link:https://public.tableau.com/profile/waiba#!/vizhome/mockint/Story1
 
+ # Highlights
+ 
+![alt text](https://github.com/waibazen/russian_airtraffic_case_study/blob/master/Story%20.png "Logo Title Text 1")
